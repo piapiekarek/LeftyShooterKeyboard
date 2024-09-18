@@ -1,0 +1,13 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"C1, C10, C11, C12, C13, C14, C15, C16, C17, C18, C19, C2, C20, C21, C22, C23, C24, C25, C26, C27, C28, C29, C3, C30, C32, C33, C35, C4, C5, C6, C7, C8, C9",0805,33,100n,
+C31,0805,1,20pF,
+C34,0805,1,1u,
+"D1, D10, D11, D12, D13, D14, D15, D16, D17, D18, D19, D2, D20, D21, D22, D23, D24, D25, D26, D27, D28, D29, D3, D30, D32, D33, D4, D5, D6, D7, D8, D9",SK6803-MINI-E_pia,32,SK6812MINI,
+D31,D_SOD-123,1,1N5817,
+"D_0, D_1, D_10, D_11, D_12, D_13, D_14, D_15, D_16, D_17, D_18, D_19, D_2, D_20, D_21, D_22, D_23, D_24, D_25, D_26, D_27, D_28, D_29, D_3, D_30, D_31, D_4, D_5, D_6, D_7, D_8, D_9",D_MiniMELF,32,D,
+J1,USB-C Receptacle,1,USB_C_Receptacle_USB2.0_16P,
+"K_0, K_1, K_10, K_11, K_12, K_13, K_14, K_15, K_16, K_17, K_18, K_19, K_2, K_20, K_21, K_22, K_23, K_24, K_25, K_26, K_27, K_28, K_29, K_3, K_30, K_31, K_4, K_5, K_6, K_7, K_8, K_9",Kailh_socket_MX_optional_pia,32,KEYSW,
+R1,0805,1,1M,
+"R2, R3",0805,2,5K1,
+"TP1, TP2",TestPoint_Pad_D1.0mm,2,TestPoint,
+U2,RPi_Pico_SMD_TH,1,Pico,
