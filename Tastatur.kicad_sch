@@ -10500,7 +10500,7 @@
 	)
 	(global_label "DM"
 		(shape input)
-		(at 63.5 73.66 0)
+		(at 63.5 63.5 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -10510,7 +10510,7 @@
 		)
 		(uuid "48fc150f-dba5-4e15-bdb5-107341792a56")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 69.2066 73.66 0)
+			(at 69.2066 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10642,7 +10642,7 @@
 	)
 	(global_label "DP"
 		(shape input)
-		(at 63.5 63.5 0)
+		(at 63.5 73.66 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -10652,7 +10652,7 @@
 		)
 		(uuid "8de702f5-b272-4c6c-8f85-ef59d8119dc4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 69.0252 63.5 0)
+			(at 69.0252 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
